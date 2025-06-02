@@ -32,7 +32,8 @@ header {
 section.conrad {
     width: 100%;
     height: 500px;
-    background-image: url(./images/slide-1-fs.jpg);
+    background-image: url(../images/slide-1-fs.jpg);
+    background-color: #222;
     background-size: cover;
     background-attachment: fixed;
 }
@@ -170,7 +171,8 @@ section.about .row {
 
 /* FOLIO */
 section.folio {
-    background-image: url("./images/slide-7-fw.jpg");
+    background-image: url("../images/slide-7-fw.jpg");
+    background-color: #222;
     background-size: cover;
     background-attachment: fixed;
     height: 500px;
