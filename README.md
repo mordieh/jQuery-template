@@ -9,7 +9,6 @@ This project demonstrates modern web design principles and interactive UI compon
 ## 🚀 Live Demo
 
 👉 [Click here to view the live demo](https://mordieh.github.io/jQuery-template)  
-*(Make sure you activate GitHub Pages for your repo)*
 
 ---
 
